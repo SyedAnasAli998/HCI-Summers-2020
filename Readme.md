@@ -19,31 +19,31 @@ Following are the tasks which will user perform in our domain.
 3. ### Task 3: Kitchen ###
 - user can manages its kitchen appliances such as stove,ovens,microwave etc with this application.
 
-4. ###Task 4: Machines###
+4. ### Task 4: Machines ###
 - user can control its washing machine and its water machine , user can easily set timer to the water machine and it trips when the timer is completed it guides water level as well.
 
-5. ###Task 5: Maintains Garden###
+5. ### Task 5: Maintains Garden ###
 - user can manages its garden that all the lights are open or not and can water the plants as well.
 
-6. ###Task 6: Electrical Usage###
+6. ### Task 6: Electrical Usage ###
 - electricity bills are one of the issues for the users to manage by this application user can view its monthly usage of the units that how much units are consumed.
 
-7. ###Task 7. Smart TV###
+7. ### Task 7. Smart TV ###
 - user can use its Smart TV from this application as well they can tune up the channels and can set volume and can search any channel as well.
 
-8. ###Task 8. CCTV Camera###
+8. ### Task 8. CCTV Camera ###
 - for the security purpose CCTV cameras recording and live view are also available in this application.
 
-9. ###Task 9. Washrooms###
+9. ### Task 9. Washrooms ###
 - user can view whether the lights are open or not the door is locked or not and the gyser status in this washroom section that will be provided in this application.
 
-10. ###Task 10. Humidity And Room Temperature###
+10. ### Task 10. Humidity And Room Temperature ###
 - user can view the current humidity in the atmosphere and the room temperature as well to decide to go outside or not.
 
-##Prospect Technology Use##
+## Prospect Technology Use ##
 Smart Phones are now in every one hands which are easy to use and can be easy to take anywhere without any complexity so the technology will be used is the *Smart Phones*.
 
-##References## 
+## References ## 
 - Deshpande, A., & Pastel, R. HCI IN SMART HOMES.
 - Björkskog, C. (2007). Human computer interaction in smart homes. Helsinki, Finland, 1.
 - Deshpande, A. S. A Survey on HCI Applications in Smart Home.                      
