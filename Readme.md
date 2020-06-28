@@ -5,10 +5,10 @@
 ##Domain Description##
 The domain will be the special needs because home automation applications are very useful for the user because sometimes we forget to close somethings when we are away from home so by using these types of application we can freely manages our home appliances by using our smart phones when ever where ever we want.
 
-##Tasks Performed##
+## Tasks Performed ##
 Following are the tasks which will user perform in our domain.
 
-1. ###Task 1: Connectivity ###
+1. ### Task 1: Connectivity ###
 - user can easily connect via Bluetooth or WiFi from their smart phones to their home devices to manage them and to control their functionalities.
 
 2. ###Task 2: Rooms Status###
