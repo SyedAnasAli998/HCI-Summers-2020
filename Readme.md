@@ -1,8 +1,9 @@
-#HCI 104497 : Smart Mobile App Home Automation.#
-###Project Members###
+# HCI 104497 : Smart Mobile App Home Automation. #
+### Project Members ###
+------------ | -------------
 **62329** | **Syed Anas Ali**
 62621 | Ali Hunain
-##Domain Description##
+## Domain Description ##
 The domain will be the special needs because home automation applications are very useful for the user because sometimes we forget to close somethings when we are away from home so by using these types of application we can freely manages our home appliances by using our smart phones when ever where ever we want.
 
 ## Tasks Performed ##
@@ -11,10 +12,10 @@ Following are the tasks which will user perform in our domain.
 1. ### Task 1: Connectivity ###
 - user can easily connect via Bluetooth or WiFi from their smart phones to their home devices to manage them and to control their functionalities.
 
-2. ###Task 2: Rooms Status###
+2. ### Task 2: Rooms Status ###
 - user can easily access their rooms and living room devices such as Air Conditioner, Rooms fans etc.
 
-3. ###Task 3: Kitchen###
+3. ### Task 3: Kitchen ###
 - user can manages its kitchen appliances such as stove,ovens,microwave etc with this application.
 
 4. ###Task 4: Machines###
