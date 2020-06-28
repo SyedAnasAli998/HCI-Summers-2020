@@ -8,7 +8,7 @@ The domain will be the special needs because home automation applications are ve
 ##Tasks Performed##
 Following are the tasks which will user perform in our domain.
 
-1. ###Task 1: Connectivity###
+1. ###Task 1: Connectivity ###
 - user can easily connect via Bluetooth or WiFi from their smart phones to their home devices to manage them and to control their functionalities.
 
 2. ###Task 2: Rooms Status###
@@ -43,5 +43,5 @@ Smart Phones are now in every one hands which are easy to use and can be easy to
 
 ##References## 
 - Deshpande, A., & Pastel, R. HCI IN SMART HOMES.
-- Björkskog, C. (2007). Human computer interaction in smart homes. Helsinki, Finland, 1.
+- BjÃ¶rkskog, C. (2007). Human computer interaction in smart homes. Helsinki, Finland, 1.
 - Deshpande, A. S. A Survey on HCI Applications in Smart Home.                      
