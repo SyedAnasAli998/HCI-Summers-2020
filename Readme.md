@@ -1,5 +1,6 @@
 # HCI 104497 : Smart Mobile App Home Automation. #
 ### Project Members ###
+StdID | Name
 ------------ | -------------
 **62329** | **Syed Anas Ali**
 62621 | Ali Hunain
