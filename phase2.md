@@ -33,7 +33,7 @@ At initial we are going to implement 2 tasks of our application namely **Connect
 
 2. ### Persona 2. Family Members ###
 
-3. ### Persona 3. Office Employee###
+3. ### Persona 3. Office Employee ###
 
 4. ### Persona 4. Home Cleaners ###
 
