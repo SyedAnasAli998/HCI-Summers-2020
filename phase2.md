@@ -41,31 +41,31 @@ Personas | Details | Goals
 ------------ | ------------- | -------------
 Mr.Ahmed | He is mobile user and wants to have such appplication| He wants to control all of the appliances of his house by himself
 		  
-	 Personas | Details | Goals
+Personas | Details | Goals
 ------------ | ------------- | -------------
 Kiran | She is a family girl | She wants to have full control on her house because she is the boss and obviously a working hand of her family
 		    
-	 Personas | Details | Goals
+Personas | Details | Goals
 ------------ | ------------- | -------------
 Sehar | She is office employee | She wanted to take care of her house while she's away from it so that she can manages her expenses.
 
-	 Personas | Details | Goals
+Personas | Details | Goals
 ------------ | ------------- | -------------
 Ali Hunain | He is house care taker  | His boss wants that no extra billing should be done so he wants this application badly.
  
 
-## Scenerios ##
+## Scenarios ##
 
-###  Scenerio one ###
+###  Scenario one ###
 - User wants to save extra billing.
 
-### 2. Scenerio Two ###
+### 2. Scenario Two ###
 - User wants a professional way to control appliances.
 
-### Scenerio Three ###
+### Scenario Three ###
 - User wants to get rid of doing things physically.
 
-### Scenerio Four ###
+### Scenario Four ###
 - User Wants to save his/her time by doing all things digitally.
 
 ## Storyboard ##
