@@ -83,4 +83,4 @@ Ali Hunain | He is house care taker  | His boss wants that no extra billing shou
 - Ali Hunain forgets to switch off the oven and the boss just arrived she he can easily pull things by shut down the oven using this amazing application.
 
 ## Prototypes ##
-![Alt Text](C://Users//Syed Anas Ali//Downloads//1.png)
+![alt text](C:\\Users\\SyedAnasAli\\Downloads\\1.png)
