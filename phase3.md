@@ -82,4 +82,4 @@ Ali Hunain | He is house care taker  | His boss wants that no extra billing shou
 - Suppose if sehar wants her room to be cool when she arrives in hot weather so she can done this easily by just opening AC from our application.
 
 ### Storyboarding 4 ###
-ssss- Ali Hunain forgets to switch off the oven and the boss just arrived she he can easily pull things by shut down the oven using this amazing application.
+- Ali Hunain forgets to switch off the oven and the boss just arrived she he can easily pull things by shut down the oven using this amazing application.
