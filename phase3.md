@@ -92,7 +92,7 @@ Ali Hunain | He is house care taker  | His boss wants that no extra billing shou
 ![](Prototypes/Kitchen.PNG)
 ![](Prototypes/Washrooms.PNG)
 ![](Prototypes/WaterMachine.PNG)
-![](Prototypes/WashingMachine.PNG)
+![](Prototypes/WasingMachine.PNG)
 ![](Prototypes/CCTV.PNG)
 ![](Prototypes/SmartTV.PNG)
 ![](Prototypes/Garden.PNG)
