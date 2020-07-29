@@ -84,31 +84,61 @@ Ali Hunain | He is house care taker  | His boss wants that no extra billing shou
 ### Storyboarding 4 ###
 - Ali Hunain forgets to switch off the oven and the boss just arrived she he can easily pull things by shut down the oven using this amazing application.
 
-## Finalize Prototypes ##
-<p>Welcome Screen</p>
+## Finalize Prototypes With Navigation Controls ##
+
+**Welcome Screen**<br>
 <img src="Prototypes/home.PNG"/>
-<p>Home Screen</p>
-<img src="Prototypes/home1.PNG"/>
-<p>Connectivity</p>
-<img src="Prototypes/Connect.PNG"/>
-<p>Rooms Controls</p>
-<img src="Prototypes/Room.PNG"/>
-<p>Kitchen Appliences Control</p>
-<img src="Prototypes/Kitchen.PNG"/>
-<p>Washrooms</p>
-<img src="Prototypes/Washrooms.PNG"/>
-<p>Water Machine</p>
+<br>
+**Route: Initial Display When Application Starts**
+
+**Side Bar**<br>
+<img src="Prototypes/sidebar.PNG"/>
+<br>
+**Route: Home Automation => Left Corner**
+
+**Home Screen**<br>
+<img src="Prototypes/home1.PNG"/><br>
+**Route: Welcome Screen => Home Automation**
+
+**Connectivity**<br>
+<img src="Prototypes/Connect.PNG"/><br>
+**Route: Home Automation => Conectivity**
+
+**Rooms Controls**<br>
+<img src="Prototypes/Room.PNG"/><br>
+**Route: Home Automation => Rooms**
+
+**Kitchen Appliences Control**<br>
+<img src="Prototypes/Kitchen.PNG"/><br>
+**Route: Home Automation => Kitchen**
+
+**Washrooms**<br>
+<img src="Prototypes/Washrooms.PNG"/><br>
+**Route: Home Automation => Washrooms**
+
+**Water Machine**<br>
+**Route: Home Automation => Machines**
 <img src="Prototypes/WaterMachine.PNG"/>
-<p>Washing Machine</p>
-<img src="Prototypes/WasingMachine.PNG"/>
-<p>CCTV</p>
-<img src="Prototypes/CCTV.PNG"/>
-<p>Smart TV</p>
-<img src="Prototypes/SmartTV.PNG"/>
-<p>Garden Controls</p>
-<img src="Prototypes/Garden.PNG"/>
-<p>Electricity Usage</p>
-<img src="Prototypes/ElectrictyUsage.PNG"/>
+
+**Washing Machine**<br>
+<img src="Prototypes/WasingMachine.PNG"/><br>
+**Route: Home Automation => Machines**
+
+**CCTV**<br>
+<img src="Prototypes/CCTV.PNG"/><br>
+**Route: Home Automation => CCTV**
+
+**Smart TV**<br>
+<img src="Prototypes/SmartTV.PNG"/><br>
+**Route: Home Automation => Smart TV**
+
+**Garden Controls**<br>
+<img src="Prototypes/Garden.PNG"/><br>
+**Route: Home Automation => Garden**
+
+**Electricity Usage**<br>
+<img src="Prototypes/ElectrictyUsage.PNG"/><br>
+**Route: Home Automation => Electricity Usage**
 
 
 
