@@ -85,18 +85,29 @@ Ali Hunain | He is house care taker  | His boss wants that no extra billing shou
 - Ali Hunain forgets to switch off the oven and the boss just arrived she he can easily pull things by shut down the oven using this amazing application.
 
 ## Finalize Prototypes ##
-<p>hello</p>
+<p>Welcome Screen</p>
 <img src="Prototypes/home.PNG"/>
+<p>Home Screen</p>
 <img src="Prototypes/home1.PNG"/>
+<p>Connectivity</p>
 <img src="Prototypes/Connect.PNG"/>
+<p>Rooms Controls</p>
 <img src="Prototypes/Room.PNG"/>
+<p>Kitchen Appliences Control</p>
 <img src="Prototypes/Kitchen.PNG"/>
+<p>Washrooms</p>
 <img src="Prototypes/Washrooms.PNG"/>
+<p>Water Machine</p>
 <img src="Prototypes/WaterMachine.PNG"/>
+<p>Washing Machine</p>
 <img src="Prototypes/WasingMachine.PNG"/>
+<p>CCTV</p>
 <img src="Prototypes/CCTV.PNG"/>
+<p>Smart TV</p>
 <img src="Prototypes/SmartTV.PNG"/>
+<p>Garden Controls</p>
 <img src="Prototypes/Garden.PNG"/>
+<p>Electricity Usage</p>
 <img src="Prototypes/ElectrictyUsage.PNG"/>
 
 
