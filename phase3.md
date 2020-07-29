@@ -35,7 +35,7 @@ StdID | Name
 
 2. ### Persona 2. Family Members ###
 
-3. ### Persona 3. Office Employee###
+3. ### Persona 3. Office Employee ###
 
 4. ### Persona 4. Home Cleaners ###
 
