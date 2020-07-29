@@ -117,8 +117,8 @@ Ali Hunain | He is house care taker  | His boss wants that no extra billing shou
 **Route: Home Automation => Washrooms**
 
 **Water Machine**<br>
+<img src="Prototypes/WaterMachine.PNG"/><br>
 **Route: Home Automation => Machines**
-<img src="Prototypes/WaterMachine.PNG"/>
 
 **Washing Machine**<br>
 <img src="Prototypes/WasingMachine.PNG"/><br>
