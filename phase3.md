@@ -3,8 +3,8 @@
 ### Project Members ###
 StdID | Name
 ------------ | -------------
-**62621** | **Syed Anas Ali**
-62354 | Ali Hunain
+**62329** | **Syed Anas Ali**
+62621 | Ali Hunain
 
 ## Need Finding ##
 - All the designs and the thoughts gathered together and now we are heading towards our final design and we are going to implement it in our application.
