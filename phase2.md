@@ -3,8 +3,8 @@
 ### Project Members ###
 StdID | Name
 ------------ | -------------
-**62621** | **Syed Anas Ali**
-62354 | Ali Hunain
+**62329** | **Syed Anas Ali**
+62621 | Ali Hunain
 ## Task Finalization ##
 At initial we are going to implement 2 tasks of our application namely **Connectivity** & **Rooms Status** these tasks include the ease for the user in a sense that user can easily connect through their smart devices via bluetooth and WiFi and user can easily see their rooms status that lights are on or off and other appliances also. 
 
